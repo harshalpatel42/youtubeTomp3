@@ -6,7 +6,6 @@ ytTomp3.spec
 build/*
 *.spec
 dist/*
-=======
 build/*
 *.spec
 dist/*
