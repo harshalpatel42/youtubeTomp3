@@ -1,0 +1,12 @@
+venv/*
+downloads/*
+*.pyc
+ytTomp3.spec
+<<<<<<< HEAD
+build/*
+*.spec
+dist/*
+=======
+build/*
+*.spec
+dist/*
