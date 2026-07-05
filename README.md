@@ -36,5 +36,6 @@ git clone [https://github.com/harshalpatel42/youtubeTomp3.git](https://github.co
 cd youtubeTomp3
 poetry install
 
+A lightweight, graphical desktop application that allows you to seamlessly download YouTube videos or extract high-quality MP3 audio. Built with Python, Tkinter, and powered by `yt-dlp`.
 
 poetry run pyinstaller --onefile --noconsole --name "YouTube Media Downloader" youtube.py
