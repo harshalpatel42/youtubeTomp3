@@ -10,7 +10,7 @@ import yt_dlp
 
 CURRENT_VERSION = 1.0
 VERSION_URL = "https://raw.githubusercontent.com/harshalpatel42/youtubeTomp3/master/version.txt"
-DOWNLOAD_URL = "https://github.com/harshalpatel42/youtubeTomp3/releases/latest/download/youtube.exe"
+DOWNLOAD_URL = "https://github.com/harshalpatel42/youtubeTomp3/releases/download/latest/YouTube.Media.Downloader.exe"
 
 def check_for_updates():
     try:
